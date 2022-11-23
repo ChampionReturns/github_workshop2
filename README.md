@@ -6,6 +6,7 @@ new changes
 
 
 
-
+<<<<<<< HEAD
+print("hello")
 
 additional chan
